@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Pictures/Camera Roll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mega project2"
+	}
+}
